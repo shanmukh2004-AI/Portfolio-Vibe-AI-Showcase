@@ -1,4 +1,3 @@
-````markdown
 # 🚀 Portfolio Vibe AI
 
 > AI-Powered Resume → Portfolio Website Generator using Google Gemini
@@ -222,4 +221,3 @@ If you found this project interesting, please consider giving it a ⭐ on GitHub
 Feedback and suggestions are always welcome.
 
 Thank you for visiting this repository!
-````
